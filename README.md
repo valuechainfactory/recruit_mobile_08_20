@@ -3,7 +3,7 @@
 FarmerSys is a small cooperative of farmers that is looking to hire you to create an app to help onboard new farmers and manage their farm information. They already have a website that has APIs to help you develop your app. The app should allow the user to view all the farmers that exist online and their farms. The app should also be able to create new farmers and send the information to their website.
 
 ## Requirements
-Hint: In addition to other technical areas of interest, we are very keen on your thought process. Feel free to be creative. Make your app look as good as you can. Do not complicate your solution in a bid to impress only to find it unfinished in the stipulated period. You are allowed a maximum of 168 hours to complete. The last commit created in that time is what we take into account.
+Hint: In addition to other technical areas of interest, we are very keen on your thought process. Feel free to be creative. Make your app look as good as you can. Do not complicate your solution in a bid to impress only to find it unfinished in the stipulated period. You are allowed a maximum of 120 hours to complete. The last commit created in that time is what we take into account.
 
 ## Client requirements
 - Have a home page that contains a search text field and a list of farmers
