@@ -9,11 +9,12 @@ Hint: In addition to other technical areas of interest, we are very keen on your
 - Have a home page that contains a search text field and a list of farmers
 - The list of farmers on the home page should be pulled from the following API everytime the app launches and stored locally on a database on the device: https://testapi.io/api/thomasjgx/farmers
 - The search field on the home page should be able to filter the list of farmers based on what you are searching for
-- Have a new farmer button that allows you to create a new farmer with the following information: id, first_name, last_name, member_number, gender, phone_number and email.
+- Have a new farmer button that allows you to create a new farmer locally with the following information: id, first_name, last_name, member_number, gender, phone_number and email.
 - When you tap on a farmer from the list of farmers on the home page it should open a new screen showing details about the selected farmer
 - When you view a farmer pull any existing farms belonging to the farmer using the id and the following api: https://testapi.io/api/thomasjgx/farmers/{id} where {id} is the farmer's id e.g. https://testapi.io/api/thomasjgx/farmers/1
 - Store the farms locally for offline viewing
 - Add a new farm button that allows you to create a new farm and store it locally with the following information: id, farm_name and farm_size.
+- Your app should be able to retain all its data and functionality when you turn off the internet and restart the app
 
 ## Technical requirements
 - Write unit and e2e tests
