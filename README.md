@@ -16,6 +16,7 @@ Hint: In addition to other technical areas of interest, we are very keen on your
 - Add a new farm button that allows you to create a new farm and store it locally with the following information: id, farm_name and farm_size.
 - Add features for editing and deleting farms from the local db
 - Add a sync feature that all sends all the new farmers or farms you've created to the following API as a post every 1 hour: https://testapi.io/api/thomasjgx/farmers/sync. You can define the POST fields as new_farmers, new_farms, updated_farmers, updated_farms, deleted_farmers and delete_farms. Send the entire record e.g. updated_farmers: [{"id": 1. "first_name": "James", "last_name": "Zumba".....}]
+- Please note that our api (https://testapi.io/api/thomasjgx/farmers) will not show the updated information that you post. But we will log the request you send and we will review it when assessing your code.
 - Your app should be able to retain all its data and functionality when you turn off the internet and restart the app
 
 ## Technical requirements
