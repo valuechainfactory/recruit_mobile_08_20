@@ -23,7 +23,7 @@ Hint: In addition to other technical areas of interest, we are very keen on your
 - Write unit and e2e tests
 - Provide the command necessary to run your tests
 - Create a private repository on GitHub and add [thomasjgx@gmail.com](mailto:thomasjgx@gmail.com) as a collaborator
-- Push your code to that repoitory in as many commits as neccessary - preferably more than one.
+- Push your code to that repository in as many commits as neccessary - preferably more than one.
 
 ## Languages allowed
 Use any of the following programming languages:
