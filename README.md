@@ -30,7 +30,6 @@ Use any of the following programming languages:
 
 - Flutter (Preferred)
 - Koitlin (Android)
-- Swift (iOS)
 
 ## Resources
 - https://flutter.dev/?gclsrc=ds&gclsrc=ds
